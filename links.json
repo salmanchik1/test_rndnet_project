@@ -1,0 +1,23 @@
+[
+  {
+    "src_id": "compute_1",
+    "dst_id": "compute_2",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "data_1",
+    "dst_id": "compute_1",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
+    "src_id": "query_1",
+    "dst_id": "compute_1",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  }
+]
